@@ -1,2 +1,0 @@
-# ChartsML
-Charts Examples
